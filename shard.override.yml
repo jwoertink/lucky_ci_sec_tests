@@ -1,0 +1,4 @@
+dependencies:
+  lucky:
+    github: luckyframework/lucky
+    branch: main
