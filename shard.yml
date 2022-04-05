@@ -39,3 +39,6 @@ development_dependencies:
   lucky_sec_tester:
     github: luckyframework/lucky_sec_tester
     branch: main
+  ameba:
+    github: crystal-ameba/ameba
+    version: ~> 0.14.3
